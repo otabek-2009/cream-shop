@@ -1,0 +1,50 @@
+.collection {
+     padding: 80px;
+     background: #7373D7;
+}
+.collection h1 {
+     color: #FFF;
+font-size: 52px;
+font-style: normal;
+font-weight: 600;
+line-height: 140%; /* 72.8px */
+text-transform: uppercase;
+}
+.collection p {
+     color: #FFF;
+font-size: 20px;
+font-style: normal;
+width: 628px;
+font-weight: 500;
+line-height: 160%; /* 32px */
+}
+.collection__card {
+padding-top: 16px;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.strelka1 {
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+}
+.collection__card h3 {
+     color: #FFF;
+ 
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 140%; /* 33.6px */
+text-transform: uppercase;
+}
+.CollectionItem h4 {
+     margin-top: 19px;
+     color: #FFF;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 140%; /* 33.6px */
+text-transform: uppercase;
+}

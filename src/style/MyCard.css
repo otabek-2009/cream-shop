@@ -1,0 +1,240 @@
+.Wraper__card h1{
+     color: #222;
+     text-align: center;
+     font-size: 40px;
+     font-style: normal;
+     font-weight: 600;
+     line-height: 140%; /* 56px */
+     text-transform: uppercase;
+ }
+ .Wraper__card p {
+     color: #7373D7;
+     font-size: 14px;
+     font-style: normal;
+     font-weight: 400;
+     line-height: 160%; 
+     text-align: center;
+ }
+ .Wraper__card{
+     padding-top: 200px;
+ }
+ .ranger {
+     width: 366px;
+     border-radius: 32px;
+     background: #7373D7 !important;
+     height: 8px;
+    margin-left: 550px;
+ }
+ .cardcha{
+     width: 85px;
+     flex-shrink: 0;
+     height: 113px;
+     background: #7373D7;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+ }
+ .cards__4{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     border: 1px solid black;
+     width: 846px;
+     padding-top: 16px;
+     margin-top: 16px;
+     border-bottom: none;
+     border-left: none;
+     border-right: none;
+     margin-left: 297px;
+     
+    
+     
+ }
+ .card__5{
+     flex-direction: column;
+     align-items: flex-start;
+     justify-content: center;
+     gap: 8px;
+     margin-right: 200px;
+ }
+ .card__6{
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     gap: 50px;
+ }
+ .qushish{
+     width: 121px;
+     flex-shrink: 0;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     border: 1px solid #222;
+     
+     opacity: 0.5;
+     height: 40px;
+ }
+ .qushish ul{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     gap: 30px;
+     opacity: 1px !important;
+ }
+ .card__5 h3{
+     font-size: 16px;
+     font-style: normal;
+     font-weight: 500;
+     line-height: 160%;
+     color: #222;
+     margin-bottom: 8px;
+     margin-left: 16px;
+ }
+ .card__5 h5{
+     margin-left: 16px;
+     color: #222;
+     font-style: normal;
+     font-weight: 400;
+     line-height: 160%;
+     font-size: 14px;
+ }
+ .card__5 a{
+     margin-left: 16px;
+ }
+ .opasiti{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     margin-right: 70px;
+ }
+ .Product{
+     color: #222;
+     font-size: 14px;
+     font-style: normal;
+     font-weight: 400;
+     line-height: 160%; /* 22.4px */
+     text-align: center;
+     margin-right: 490px;
+ }
+ .Price{
+     margin-right: 80px;
+ }
+ .Quantity{
+     margin-right:102px ;
+ }
+ .Card__kata{
+     margin-top: 40px;
+     margin-bottom: 40px;
+ }
+ .chiziq2{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     border: 1px solid black;
+     width: 846px;
+     padding-top: 16px;
+     margin-top: 16px;
+     border-bottom: none;
+     border-left: none;
+     border-right: none;
+     margin-left: 297px;   
+ }
+ .input_tayp_text{
+     margin-top: 8px;
+     height: 185px;
+     border: 1px solid #222;
+     opacity: 0.3;
+     width: 411px;
+     padding: 20px;
+     
+ }
+ .Subtotal li{
+     color: #222;
+     font-style: normal;
+     font-weight: 600;
+     line-height: 160%; /* 25.6px */
+     font-size: 16px;
+     
+ }
+ .Auto li{
+     color: #7373D7;
+     font-style: normal;
+     font-weight: 600;
+     line-height: 160%; /* 25.6px */
+     font-size: 16px;
+    
+ }
+ .Total li{
+     color: #222;
+     font-style: normal;
+     font-weight: 600;
+     line-height: 140%; /* 25.2px */
+     text-transform: uppercase;
+     font-size: 18px;
+     
+     
+ }
+ .Auto{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     gap: 178px;
+     margin-top: 16px;
+     margin-bottom: 8px;
+ }
+ .Subtotal{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     gap: 177px;
+     margin-bottom: 4px;
+ }
+ .Total{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     gap: 178px;
+ }
+ .btn{
+     margin-top: 16px;
+     display: flex;
+     padding: 16px 48px 10px 48px;
+     justify-content: center;
+     align-items: center;
+     gap: 10px;
+     background: #7373D7;
+     width: 302px;
+     color: #FFF;
+     text-align: center;
+     font-size: 17px;
+     font-style: normal;
+     font-weight: 600;
+     line-height: 160%; /* 27.2px */
+     text-transform: uppercase;
+     border: none;
+     transition: 1s;
+ }
+ .btn:hover{
+     background: #FFF;
+     border: 1px solid #7373D7;
+     color: #7373D7;
+     transition: 1s;
+ }
+ .input_texst{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     gap: 133px;
+     margin-bottom: 87px;
+ } 
+
+ .Qushimcha{
+     margin-top: -30px;
+ }
+ .Message{
+     border: none;
+ }
+ .cardcha img {
+     width: 140px;
+     height: 80px;
+ }

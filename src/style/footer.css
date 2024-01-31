@@ -1,0 +1,132 @@
+.footer{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     background-color: #222;
+    height: 480px;
+        
+ 
+ }
+ .foot_2{
+     display: flex;
+     justify-content: center;
+     margin-left: 109px;
+     gap: 110px;
+     margin-top: -125px;
+ }
+ .foot_1{
+     margin-right: 132px;
+ }
+ li{
+     list-style: none;
+ }
+ .footer_title{
+     color: #FFF;
+     font-size: 24px;
+     font-style: normal;
+     font-weight: 600;
+     line-height: 140%; /* 33.6px */
+     text-transform: uppercase;
+ }
+ .foot_p{
+     width: 411px;
+     color: #B7B7B7;
+     font-size: 16px;
+     font-style: normal;
+     font-weight: 400;
+     line-height: 160%; /* 25.6px */
+     margin-top: 16px;
+ }
+ .input{
+     width: 411px;
+     border-radius: 61px;
+     border: 1px solid #b7b7b7;
+     height: 60px;
+     background-color: #222;
+     color: #FFF;
+     font-size: 20px;
+     padding-left: 20px;
+     margin-top: 24px;
+     color: #FFF;
+     font-size: 16px;
+     font-style: normal;
+     font-weight: 400;
+     line-height: 160%; /* 25.6px */
+ }
+ .radius{
+
+margin-top: 24px;
+margin-bottom: 80px;
+ }
+ .radius {
+    width: 48px;
+height: 48px;
+flex-shrink: 0;
+display: flex;
+align-items: center;
+justify-content: center;
+border-radius: 60px;
+background: #FFF;
+ }
+ .cta {
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+    gap: 10px;
+    margin-right: 350px;
+ }
+ .footer__text {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+ }
+ .footer__text li {
+     color: #FFF;
+     font-style: normal;
+     font-weight: 400;
+     line-height: 160%; /* 22.4px */
+     font-size: 14px;
+     margin-right: 50px;
+
+ }
+ .border_left{
+     border-left: 2px solid #B7B7B7;;
+     height: 360px;
+     margin-right: 10px;
+ }
+ .cards h3{
+     color: #FFF;
+     font-style: normal;
+     font-weight: 600;
+     line-height: 140%; /* 25.2px */
+     text-transform: uppercase;
+     font-size: 18px;
+     margin-bottom: 20px;
+ }
+ .cards p{
+     color: #B7B7B7;
+     font-size: 14px;
+     font-style: normal;
+     font-weight: 300;
+     line-height: 160%; 
+padding-bottom: 10px;
+   width: 108px;
+ 
+ }
+ .cards{
+     width: 99px;
+     
+ }
+ #text {
+    color: #FFF;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; /* 22.4px */
+text-decoration-line: underline;
+ }
+ .qwer {
+    position: fixed;
+    bottom: 35px;
+   right: 50px;
+ }
